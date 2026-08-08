@@ -1,4 +1,3 @@
 # airegisterig
-pro
+all
 pro-co
-pro-3
