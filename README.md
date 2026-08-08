@@ -2,3 +2,4 @@
 all
 pro-co
 commit
+test
